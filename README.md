@@ -6,7 +6,9 @@ A simple intrusion alarm for the NUCLEO-F411RE using an IR obstacle sensor and a
 
 ## 🎬 Demo
 
-<!-- ลากไฟล์วิดีโอมาวางตรงนี้ตอนแก้ README บน GitHub แล้วลบบรรทัดนี้ -->
+
+https://github.com/user-attachments/assets/9c8bc3b6-207a-4d7e-968c-f7f7d26f3dd3
+
 
 ## ✨ Features
 
